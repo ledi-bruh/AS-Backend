@@ -1,12 +1,16 @@
-# 🍪 ***AS Backend разработка*** 🍪
+<h1 align="center">
+    🍪 <i><b>AS Backend разработка</b></i> 🍪
+</h1>
 
 > ***Андрей Подовинов, ОмГТУ, ФИТ-212***
 
-![gif](./shark.gif)
+<p align="center">
+  <img src="./shark.gif" />
+</p>
 
 ***
 
-> ***Список дел* на интенсиве:**
+> ***Список дел* на интенсиве**
 
 <p align="center">
   <img src="https://progress-bar.dev/2/?title=done&scale=2&suffix=/2&color=5b5b5b&width=100" />
