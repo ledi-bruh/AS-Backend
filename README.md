@@ -13,7 +13,7 @@
 > **_Список дел_ на интенсиве**
 
 <p align="center">
-  <img src="https://progress-bar.dev/2/?title=done&scale=2&suffix=/2&color=5b5b5b&width=100" />
+  <img src="https://progress-bar.dev/2/?title=done&scale=4&suffix=/4&color=5b5b5b&width=100" />
 </p>
 
 -   **Спринт 1**
@@ -24,7 +24,9 @@
 
 -   **Спринт 2**
 
-    🔳 None
+    🔳 [-->](https://github.com/ledi-bruh/AS-Backend/tree/main/tasks/task2.1) Правильные скобочные последовательности
+
+    🔳 [-->](https://github.com/ledi-bruh/AS-Backend/tree/main/tasks/task2.2) Составить самое большое число
 
 -   **Спринт 3**
 
