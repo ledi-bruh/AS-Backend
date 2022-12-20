@@ -19,7 +19,7 @@ def main():
     ]
 
     for data in datum:
-        print(largest_number(data))
+        print(largest_number(data, sep=' '))
 
 
 if __name__ == '__main__':
