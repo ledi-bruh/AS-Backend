@@ -3,6 +3,8 @@ from main import largest_number
 
 def main():
     datum = [
+        '73 733',
+        '733 73',
         '73 737',
         '737 73',
         '12323 34 2',
