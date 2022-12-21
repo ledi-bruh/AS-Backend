@@ -2,9 +2,7 @@ from functools import cmp_to_key
 
 
 def compare(a: str, b: str) -> int:
-    if (s1 := a + b) > (s2 := b + a):
-        return -1
-    return s1 < s2
+    return -1 if (s1 := a + b) > (s2 := b + a) else s1 < s2
 
 
 def largest_number(number: str, sep: str = '') -> str:
