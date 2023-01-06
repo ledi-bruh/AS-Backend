@@ -1,8 +1,5 @@
-import re
-
-
 def is_palindrome(phrase: str) -> bool:
-    phrase = ''.join(i for i in phrase.lower() if re.match(r'[a-z0-9]', i))
+    phrase = ''.join(i for i in phrase.lower() if i.isalnum())
     return phrase == phrase[::-1]
 
 
