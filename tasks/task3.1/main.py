@@ -7,8 +7,8 @@ def convert(num: str, k: int = 2) -> str:
         number *= -1
 
     while number >= k:
-        number, ost = divmod(number, k)
-        result = str(ost) + result
+        result = str(number % k) + result
+        number //= k
 
     return minus + str(number) + result
 
